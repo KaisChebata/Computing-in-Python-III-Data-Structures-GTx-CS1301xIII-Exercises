@@ -1,0 +1,2 @@
+The function should open the given file and return True if the file contains the word "coffee"
+Hint: look up the read() method if you want to do this more simply than you might do with readline().
